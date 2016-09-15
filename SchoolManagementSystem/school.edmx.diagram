@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="feb0066be56349839b1a122d602a1f10" Name="Diagram1">
+        <EntityTypeShape EntityType="SchoolModel.Course" Width="1.5" PointX="3" PointY="3.375" />
+        <EntityTypeShape EntityType="SchoolModel.CourseInstructor" Width="1.5" PointX="8.25" PointY="3.75" />
+        <EntityTypeShape EntityType="SchoolModel.Department" Width="1.5" PointX="0.75" PointY="3.625" />
+        <EntityTypeShape EntityType="SchoolModel.OfficeAssignment" Width="1.5" PointX="8.25" PointY="12.125" />
+        <EntityTypeShape EntityType="SchoolModel.OnlineCourse" Width="1.5" PointX="5.25" PointY="2.5" />
+        <EntityTypeShape EntityType="SchoolModel.OnsiteCourse" Width="1.5" PointX="4.75" PointY="6.375" />
+        <EntityTypeShape EntityType="SchoolModel.Person" Width="1.5" PointX="1.75" PointY="7.625" />
+        <EntityTypeShape EntityType="SchoolModel.StudentGrade" Width="1.5" PointX="8.375" PointY="6.875" />
+        <AssociationConnector Association="SchoolModel.FK_Course_Department" />
+        <AssociationConnector Association="SchoolModel.FK_CourseInstructor_Course" />
+        <AssociationConnector Association="SchoolModel.FK_OnlineCourse_Course" />
+        <AssociationConnector Association="SchoolModel.FK_OnsiteCourse_Course" />
+        <AssociationConnector Association="SchoolModel.FK_CourseInstructor_Person" />
+        <AssociationConnector Association="SchoolModel.FK_OfficeAssignment_Person" />
+        <AssociationConnector Association="SchoolModel.FK_StudentGrade_Person" />
+        <AssociationConnector Association="SchoolModel.FK_StudentGrade_Course" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

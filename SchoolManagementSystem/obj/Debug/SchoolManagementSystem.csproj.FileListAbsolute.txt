@@ -1,0 +1,8 @@
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe.config
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.exe
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\SchoolManagementSystem.pdb
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\EntityFramework.dll
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\bin\Debug\EntityFramework.xml
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.exe
+c:\users\samzhong\documents\visual studio 2013\Projects\SchoolManagementSystem\SchoolManagementSystem\obj\Debug\SchoolManagementSystem.pdb
